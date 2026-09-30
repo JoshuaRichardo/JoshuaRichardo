@@ -4,7 +4,7 @@ Saya adalah mahasiswa di BINUS University @Semarang yang memiliki minat luas di 
 
 ## 🛠️ Tech Stack & Tools
 - **IoT & Hardware:** Generic ESP8266 Module, ESP32, Firebase
-- **Machine Learning & Data Science:** Scikit-learn, YOLO, PLS-SEM Analysis
+- **Machine Learning & Data Science:** Scikit-learn, YOLO
 - **Game Development:** Unity, Cinemachine (2D)
 - **Web Development:** HTML, CSS, JavaScript, MySQL
 - **Networking:** Cisco Packet Tracer
@@ -30,10 +30,6 @@ Pengembangan mekanik permainan 2D interaktif.
 Proyek *full-stack* web development untuk platform fesyen mewah.
 * **Tech:** HTML, CSS, JavaScript, MySQL.
 * **Highlight:** Merancang antarmuka (Home, Product, Detail) yang responsif dan terintegrasi dengan basis data.
-
-### [Quantitative Research: Retail Investor Behavior](#link-ke-repo)
-Penelitian mengenai faktor psikologis (perilaku heuristik, *herding*, FOMO) pada investor ritel muda di Indonesia.
-* **Highlight:** Menggunakan analisis PLS-SEM untuk menarik kesimpulan kuantitatif yang valid.
 
 ## 📫 Let's Connect!
 - LinkedIn: [Tautan ke profil LinkedIn dengan foto baru Anda]
