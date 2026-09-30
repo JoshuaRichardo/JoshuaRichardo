@@ -32,5 +32,5 @@ Proyek *full-stack* web development untuk platform fesyen mewah.
 * **Highlight:** Merancang antarmuka (Home, Product, Detail) yang responsif dan terintegrasi dengan basis data.
 
 ## 📫 Let's Connect!
-- LinkedIn:(https://www.linkedin.com/in/joshua-richardo-nathanael-796859335/)
+- LinkedIn: https://www.linkedin.com/in/joshua-richardo-nathanael-796859335/
 - Email: joshua.nathanael001@binus.ac.id
