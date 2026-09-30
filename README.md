@@ -21,7 +21,7 @@ Implementasi algoritma *clustering*, pemodelan prediktif, dan deteksi objek meng
 * **Tech:** Python, Scikit-learn, YOLO.
 * **Highlight:** Melatih model untuk klasifikasi gambar dan analisis prediktif berbasis data.
 
-### [2D Game Development Projects][(#[link-ke-repo](https://github.com/JoshuaRichardo/GameDev))].(https://github.com/JoshuaRichardo/GameDev)
+### [2D Game Development Projects][(#[link-ke-repo](https://github.com/JoshuaRichardo/GameDev))].
 Pengembangan mekanik permainan 2D interaktif.
 * **Tech:** Unity, Cinemachine.
 * **Highlight:** Mengimplementasikan logika kamera dinamis, rotasi *turret*, dan animasi *sprite sheet*.
